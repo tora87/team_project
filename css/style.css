@@ -9,7 +9,7 @@
     justify-content: space-around;
 }
 a{
-    color:yellow;
+    color:white;
 }
 
 .url{
@@ -166,17 +166,18 @@ h4{
     z-index: 999;
 }
 /*--------------------------------------憲太----------------------------------------------------*/
-a{
-    color:yellow;
-}
 .kentamjb {
     display: flex;
     justify-content: space-around;
 }
 .widthkentamjb {
 margin: 20px 20px 20px 20px;
-width: 700px;
+width: 350px;
 line-height: 1;
+}
+
+.blue{
+    color: blue;
 }
 /*--------------------------------------永遠----------------------------------------------------*/
 .towaeien{
