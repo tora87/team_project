@@ -4,6 +4,18 @@
     font-family: serif;
 }
 
+.topMain{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    color:yellow;
+}
+
+.url{
+    color: rgb(110, 110, 241);
+}
+
 .header{
     margin: auto;
     height: auto;
@@ -20,6 +32,11 @@ h1{
     margin: 0px;
     padding: 0px 0px;
     font-size: 18px;
+}
+.topMain{
+    background-color: rgb(233, 244, 247);
+    width: auto;
+    height: 480px;
 }
 
 
@@ -148,6 +165,16 @@ h4{
     opacity: 0.5; /*黒背景部分透過度*/
     z-index: 999;
 }
+<<<<<<< HEAD
 a{
     color:yellow;
+}
+
+=======
+
+/*--------------------------------------憲太----------------------------------------------------*/
+
+/*--------------------------------------永遠----------------------------------------------------*/
+.towaeien{
+    font-size:30px;
 }
